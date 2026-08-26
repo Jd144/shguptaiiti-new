@@ -1,0 +1,1 @@
+const Toast={show(msg){const el=document.getElementById('toast'),m=document.getElementById('toast-msg');if(!el||!m)return;m.textContent=msg;el.classList.add('show');clearTimeout(el._timer);el._timer=setTimeout(()=>el.classList.remove('show'),3000)}};
