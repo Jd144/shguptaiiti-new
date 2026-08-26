@@ -1,0 +1,1 @@
+const Lightbox={open:false,src:'',type:'image',title:'',show(src,type='image',title=''){this.open=true;this.src=src;this.type=type;this.title=title},close(){this.open=false;this.src='';this.type='image';this.title=''},isOpen(){return this.open}};
