@@ -1,0 +1,1 @@
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.fade-up{animation:fadeUp .35s ease both}.spin{animation:spin .9s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
