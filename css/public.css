@@ -1,0 +1,1 @@
+.page{padding:55px 0}.news-item{border-left:3px solid #4DA8DA;padding-left:12px}.research-item{transition:.2s}.research-item:hover{transform:translateY(-2px)}.pi{display:flex;gap:24px;align-items:flex-start}.pi img{width:170px;height:210px;object-fit:cover;border-radius:14px}@media(max-width:640px){.pi{flex-direction:column}.pi img{width:100%;height:300px}}
